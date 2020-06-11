@@ -51,6 +51,9 @@ td {
 td.blank {
     background-color: rgba(1, 1, 1, 0)
 }
+td.here {
+    background-color: rgb(228, 35, 35);
+}
 .answer {
     margin: 0px;
     width: 90%;
@@ -59,9 +62,6 @@ td.blank {
     background-color: #44444400;
     font-size: 22pt;
     text-align: center;
-}
-.here {
-    background-color: rgb(228, 35, 35);
 }
 
 div {
