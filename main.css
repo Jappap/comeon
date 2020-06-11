@@ -38,6 +38,12 @@ tr {
     padding: 0;
     border: 0;
 }
+td.blank {
+    background-color: rgba(1, 1, 1, 0)
+}
+td.here {
+    background-color: rgb(228, 35, 35);
+}
 td {
     width: 9%;
     height: 10%;
@@ -47,12 +53,6 @@ td {
     background-color: #ffffff;
     color: #000000;
     font-size: 13pt;
-}
-td.blank {
-    background-color: rgba(1, 1, 1, 0)
-}
-td.here {
-    background-color: rgb(228, 35, 35);
 }
 .answer {
     margin: 0px;
